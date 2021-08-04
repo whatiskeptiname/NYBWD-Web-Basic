@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login{
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.register{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.mobilize button{
+  justify-content: space-between;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.slider{
+  align-items: center;
+  justify-content: center;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
